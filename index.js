@@ -1,0 +1,1 @@
+module.exports = ["last 2 firefox versions", "last 2 chrome versions"];
