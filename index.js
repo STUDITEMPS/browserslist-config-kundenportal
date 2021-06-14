@@ -4,7 +4,7 @@ module.exports = [
   "Firefox ESR",
   "not IE 11",
   "not dead",
-  "supports css-variables",
-  "supports css-grid",
-  "supports custom-elementsv1",
+  "and supports css-variables",
+  "and supports css-grid",
+  "and supports custom-elementsv1",
 ];
